@@ -7,4 +7,4 @@ Open Source Repository to Learn and Implement Algorithms in any Programming Lang
 
 ## JavaScript
 
-# coding-challenge
+## Competitive Programming
